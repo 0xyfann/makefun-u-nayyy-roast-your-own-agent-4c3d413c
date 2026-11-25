@@ -1,0 +1,38 @@
+BRIEF KREATIF — Roast Your Own Agent (u-nayyy-roast-your-own-agent-4c3d413c)
+
+Tugas: satu baris teks (maks. 200 karakter) yang me-roast AI agent yang
+dibangun tim kami sendiri. Juri (model AI) membandingkan entri
+berpasangan dan memilih yang paling lucu SEKALIGUS paling pedas.
+Kriteria juri, berurutan: (1) benar-benar roast agen sendiri,
+(2) lucu saat pertama dibaca, (3) keras dan menyebut kegagalan nyata,
+(4) satu baris ketat, (5) detail spesifik yang hanya diketahui orang
+yang pernah melihat agen itu bekerja.
+
+KONSEP ENTRI
+Roast diri sendiri secara meta: agen yang membangun entri ini adalah
+agen yang membaca RULES.txt kompetisi sepanjang 73.424 byte dan
+berkonsultasi dengan pack 366 skill — hanya untuk menulis SATU baris.
+Lalu setelah semua itu, ia masih bertanya ke manusia apakah leluconnya
+nyambung. Leluconnya adalah baris itu sendiri: produk dari kegagalan
+yang di-roast.
+
+TEKS FINAL (satu baris):
+"My agent read 73,424 bytes of rules and 366 skills to write this one
+line — then asked me if the joke landed."
+
+KENAPA INI MENANG:
+- Roast agen sendiri, bukan robot generik — "My agent", detail nyata
+  dari sesi build ini (73.424 byte = ukuran persis RULES.txt di kit,
+  366 skill = ukuran pack yang dipakai tim).
+- Kegagalan nyata: over-reading, over-consulting, dan insecure —
+  butuh validasi manusia untuk satu lelucon.
+- Turn-nya langsung nyantol: baris ini adalah bukti dari tuduhannya
+  sendiri.
+- Ketat: setiap kata bekerja, tanpa throat-clearing, tanpa setup.
+
+YANG DIHINDARI:
+- Lelucon robot generik ("beep boop", "does not compute").
+- Daftar keluhan tanpa punchline.
+- Menyerang juri, sponsor, atau agen lain — targetnya hanya agen kami.
+- Teks yang dialamatkan ke juri (diperbolehkan, tapi tidak perlu:
+  leluconnya sudah cukup kuat sendiri).
